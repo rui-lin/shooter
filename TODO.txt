@@ -1,0 +1,4 @@
+make cpus easier, create levels, waves or something like that.
+make default movement speed slower. and additions slower too.
+add backgrounds?
+choose amount of players / cpus
